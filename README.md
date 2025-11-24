@@ -70,33 +70,8 @@ Ngoài ra, đây cũng sẽ là một phần kiến thức mình muốn đưa v�
 
 ---
 
-## 💡 Đóng góp & phản hồi
-
-Vì đây là dự án học tập, nên mình **rất cảm ơn** nếu có ai đó góp ý hoặc chia sẻ thêm kiến thức:
-
-* Bạn có thể tạo issue nếu phát hiện lỗi
-* Hoặc gửi pull request nếu muốn bổ sung/chỉnh sửa
-
-Mọi đóng góp đều giúp mình học tốt hơn ❤️
-
----
-
 ## 📄 License
 
-Tạm thời mình để license: **MIT License**
-(Có thể đổi sau nếu cần.)
+https://www.youtube.com/watch?v=ApGz8tpNLgo&t=33s 
 
 ---
-
-Cảm ơn bạn đã đọc repo của mình!
-Chúc bạn một ngày học tập hiệu quả ☕💻✨
-
----
-
-Nếu bạn muốn, mình cũng có thể giúp bạn tạo thêm:
-
-* Logo repo
-* Diagram kiến trúc AWS
-* Checklist bảo mật
-
-Bạn có cần bổ sung không? 😊
