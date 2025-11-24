@@ -1,7 +1,3 @@
-Dưới đây là phiên bản **README** được viết lại theo phong cách của một sinh viên năm tư đang bắt đầu học và thực hành AWS Security:
-
----
-
 # AWS-Cloud-Security
 
 > Repo này được tạo ra để mình tự học và thực hành bảo mật trên AWS, đồng thời lưu lại những gì mình nghiên cứu được.
@@ -68,5 +64,6 @@ Trong repository hiện bao gồm:
 https://www.youtube.com/watch?v=ApGz8tpNLgo&t=33s 
 
 ---
+
 
 
