@@ -21,14 +21,10 @@ Repo này có thể lớn dần theo thời gian vì mình đang vừa học v�
 
 ## 📁 Nội dung repo (tạm thời)
 
-Hiện tại repo sẽ bao gồm (và mình sẽ bổ sung dần):
-
 * Các file template cấu hình (Terraform/CloudFormation nếu mình học tới phần đó 😅)
 * Hướng dẫn thiết lập CloudTrail, S3 encrypted bucket, IAM policy basic
 * Ghi chú cá nhân liên quan đến bảo mật cloud
 * Các lỗi mình mắc phải và cách xử lý
-
-> Lưu ý: Vì mình vẫn đang học nên nội dung có thể chưa hoàn chỉnh hoặc còn thiếu. Nếu bạn xem được repo này và thấy sai sót thì mình rất vui nếu được góp ý 🙌
 
 ---
 
@@ -75,3 +71,4 @@ Ngoài ra, đây cũng sẽ là một phần kiến thức mình muốn đưa v�
 https://www.youtube.com/watch?v=ApGz8tpNLgo&t=33s 
 
 ---
+
