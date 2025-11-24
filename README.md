@@ -1,7 +1,5 @@
 # AWS-Cloud-Security
 
-> Repo này được tạo ra để mình tự học và thực hành bảo mật trên AWS, đồng thời lưu lại những gì mình nghiên cứu được.
-
 ## 🎯 Mục tiêu dự án
 
 Dự án này cung cấp các mẫu, kịch bản và hướng dẫn nhằm:
@@ -64,6 +62,7 @@ Trong repository hiện bao gồm:
 https://www.youtube.com/watch?v=ApGz8tpNLgo&t=33s 
 
 ---
+
 
 
 
