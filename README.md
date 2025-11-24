@@ -6,37 +6,34 @@ Dưới đây là phiên bản **README** được viết lại theo phong cách
 
 > Repo này được tạo ra để mình tự học và thực hành bảo mật trên AWS, đồng thời lưu lại những gì mình nghiên cứu được.
 
-## 🎯 Mục tiêu của dự án
+## 🎯 Mục tiêu dự án
 
-Mình bắt đầu tìm hiểu về **AWS Cloud Security** và muốn xây dựng một repo tổng hợp các tài liệu, template và cấu hình mẫu để:
+Dự án này cung cấp các mẫu, kịch bản và hướng dẫn nhằm:
 
-* Hiểu rõ hơn về cách AWS hoạt động, đặc biệt là các dịch vụ liên quan đến bảo mật.
-* Tự triển khai môi trường AWS theo chuẩn bảo mật cơ bản (IAM, VPC, Logging, Encryption...).
-* Học theo các best practice và cải thiện dần qua quá trình làm bài tập hoặc thử nghiệm thực tế.
-* Làm nền tảng cho các dự án nghiên cứu/đồ án hoặc portfolio cá nhân sau này.
+* Thiết lập môi trường AWS với chuẩn bảo mật tốt (network, IAM, logging, v.v).
+* Hỗ trợ việc tuân thủ, giám sát và phát hiện rủi ro trên AWS theo mô hình “shared responsibility” giữa AWS và người dùng.
+* Giúp triển khai nhanh các thành phần hạ tầng bảo mật như VPC, IAM roles, CloudTrail, S3 encrypted buckets…
+* Là một điểm khởi đầu (boilerplate) để bạn hoặc tổ chức có thể tuỳ biến và mở rộng theo nhu cầu riêng.
 
-Repo này có thể lớn dần theo thời gian vì mình đang vừa học vừa làm 😊
 
 ---
 
-## 📁 Nội dung repo (tạm thời)
+## 📁 Nội dung chính
 
-* Các file template cấu hình (Terraform/CloudFormation nếu mình học tới phần đó 😅)
-* Hướng dẫn thiết lập CloudTrail, S3 encrypted bucket, IAM policy basic
-* Ghi chú cá nhân liên quan đến bảo mật cloud
-* Các lỗi mình mắc phải và cách xử lý
+Trong repository hiện bao gồm:
+
+* Các template cấu hình (ví dụ CloudFormation / Terraform hoặc shell script) để tạo VPC, bảo mật network, setting IAM, logging…
+* Hướng dẫn (documentation) để triển khai và duy trì môi trường bảo mật AWS.
+* (Có thể) các kiểm tra mẫu, hoặc kịch bản demo minh hoạ việc phát hiện và phản ứng rủi ro.
 
 ---
 
 ## ❓ Vì sao mình làm dự án này?
 
-Trong lúc học, mình nhận ra rằng:
-
 * AWS cung cấp rất nhiều dịch vụ nhưng việc cấu hình **an toàn** lại không hề đơn giản.
 * Bảo mật cloud **không phải chỉ dựa vào AWS**, mà còn phụ thuộc vào người dùng trong mô hình **Shared Responsibility**.
 * Thay vì học lý thuyết suông, mình muốn **tự tay làm** để hiểu sâu hơn.
 
-Ngoài ra, đây cũng sẽ là một phần kiến thức mình muốn đưa vào portfolio hoặc dùng cho cơ hội nghề nghiệp sau này.
 
 ---
 
@@ -71,4 +68,5 @@ Ngoài ra, đây cũng sẽ là một phần kiến thức mình muốn đưa v�
 https://www.youtube.com/watch?v=ApGz8tpNLgo&t=33s 
 
 ---
+
 
